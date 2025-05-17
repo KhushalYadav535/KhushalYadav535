@@ -1,106 +1,119 @@
-<h1 align="center">Hi 👋, I'm Khushal Yadav</h1>
-<h3 align="center">A Passionate Full Stack Developer from India 🇮🇳</h3>
+# <div align="center">✨ Hello World! I'm Khushal Yadav ✨</div>
+<div align="center">
+  <h3>🚀 Full Stack Developer | Open Source Contributor | Tech Enthusiast</h3>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=22D3EE&center=true&vCenter=true&width=435&lines=Coding+with+passion;Building+scalable+solutions;Learning+everyday" alt="Typing SVG" />
+</div>
+
+---
+
+## <div align="center">👨‍💻 About Me</div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=KhushalYadav535&label=Profile%20Views&color=0e75b6&style=flat" alt="KhushalYadav535" />
+  A passionate self-taught developer from India with expertise in building web applications and solving complex problems. I specialize in MERN stack development and have a keen interest in AI/ML technologies.
 </p>
 
----
-
-🚀 I'm a **Full Stack Developer** driven by curiosity and the desire to build solutions that make a real impact. I love working with modern tech stacks and contributing to meaningful projects.
-
----
-
-### 👨‍💻 About Me:
-
-- 🔭 Currently working on: [Smart India Hackathon Project](https://sih.gov.in/sih2023PS)
-- 🌱 Currently learning: **Web Development, React.js & Machine Learning**
-- 🤝 Looking for collaboration on: [TO-DO Web App](https://github.com/KhushalYadav535/Todo-website)
-- 💬 Ask me about: **React.js, C++, DSA, and Machine Learning**
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/khushal-yadav-27a178220/)
-- 🧠 Always exploring new technologies and building side projects to sharpen my skills
+- 🔭 Currently working on **Smart India Hackathon Project**
+- 🌱 Learning **Advanced React Patterns & Microservices Architecture**
+- 👯 Looking to collaborate on **Open Source Projects**
+- 💬 Ask me about **React, Node.js, or any tech stuff**
+- ⚡ Fun fact: **I can solve a Rubik's cube in under 2 minutes!**
 
 ---
 
-### 🏆 GitHub Profile Trophies
+## <div align="center">🛠 Tech Stack</div>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=KhushalYadav535&theme=algolia&no-bg=true&no-frame=true" alt="GitHub Profile Trophies" />
-  </a>
-</p>
+<div align="center">
 
----
+### 💻 Languages
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
-### 🔗 Connect With Me:
+### 🌐 Frontend
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/khushal-yadav-27a178220/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/khushalyadav0" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
-  </a>
-  <a href="https://www.youtube.com/@GrowWithUs" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" />
-  </a>
-  <a href="https://www.hackerrank.com/khushalyadav535" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" />
-  </a>
-  <a href="https://leetcode.com/khushalyadav535/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
-  </a>
-  <a href="https://auth.geeksforgeeks.org/user/khushalyadav535" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GFG" height="30" width="40" />
-  </a>
-</p>
+### 🚀 Backend
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 
----
+### 🗃 Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### 🛠️ Tech Stack & Tools:
+### 🛠 Tools
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/> 
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/> 
-  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="GCP" width="40" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="Adobe XD" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" width="40" height="40"/>
-</p>
+</div>
 
 ---
 
-### 📊 GitHub Stats:
+## <div align="center">📈 GitHub Stats</div>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KhushalYadav535&theme=radical" alt="GitHub Streak" />
-</p>
-
----
-
-### 📌 Projects Showcase
-
-📍 [TO-DO Web App](https://github.com/KhushalYadav535/Todo-website)  
-📍 [Smart India Hackathon Submission](https://sih.gov.in/sih2023PS)  
-📍 [View All Projects on GitHub →](https://github.com/KhushalYadav535)
-
----
-
-### 💡 Motto:
-
-> *"Never stop learning, because life never stops teaching."*
+<div align="center">
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KhushalYadav535&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhushalYadav535&layout=compact&langs_count=8&theme=radical"/>
+  
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KhushalYadav535&theme=radical)
+  
+  ![Trophies](https://github-profile-trophy.vercel.app/?username=KhushalYadav535&theme=radical&no-frame=true&no-bg=true&margin-w=15&column=7)
+  
+</div>
 
 ---
 
+## <div align="center">🌟 Featured Projects</div>
+
+<div align="center">
+
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| [Todo App](https://github.com/KhushalYadav535/Todo-website) | Full-featured task management application | React, Node.js, MongoDB |
+| [SIH Project](https://sih.gov.in/sih2023PS) | Smart India Hackathon submission | Python, Flask, OpenCV |
+| [Portfolio Website](https://github.com/KhushalYadav535/portfolio) | Personal developer portfolio | Next.js, TailwindCSS |
+
+</div>
+
+---
+
+## <div align="center">🤝 Let's Connect</div>
+
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khushal-yadav-27a178220/)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/yourhandle)
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/khushalyadav535/)
+[![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/khushalyadav535)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+
+</div>
+
+---
+
+<div align="center">
+  
+![Visitor Count](https://komarev.com/ghpvc/?username=KhushalYadav535&label=Profile%20Views&color=0e75b6&style=flat)
+  
+</div>
+
+<div align="center">
+  
+[![GitHub followers](https://img.shields.io/github/followers/KhushalYadav535.svg?style=social&label=Follow)](https://github.com/KhushalYadav535)
+  
+</div>
+
+---
+
+<div align="center">
+  
+⭐️ From [KhushalYadav535](https://github.com/KhushalYadav535)
+  
+</div>
