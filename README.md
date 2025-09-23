@@ -3,7 +3,7 @@
 <div align="center">
   
 # ✨ Hey there! I'm Khushal Yadav ✨  
-### 🚀 *Full Stack Developer | Open Source Contributor | Tech Enthusiast*
+### 🚀 *Full Stack Developer | Open Source Contributor | Tech Enthusiast | AI Agent Automation*
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=22D3EE&width=500&lines=Welcome+to+my+digital+playground!;Crafting+code+with+passion...;Building+scalable+solutions;Always+learning+%26+growing;Open+Source+Enthusiast)](https://git.io/typing-svg)
 
@@ -32,7 +32,7 @@
 - 🤝 **Open to:** Collaborations on Open Source Projects
 - 💬 **Ask me about:** React, Node.js, or backend architecture
 - ⚡ **Fun Fact:** I can solve a Rubik's Cube in under 2 minutes!
-- 📫 **Reach me:** khushalyadavofficial@gmail.com
+- 📫 **Reach me:** khushalyadav535@gmail.com
 
 ---
 
