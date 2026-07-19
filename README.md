@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,25:0d0820,50:1a0f3d,75:0d0820,100:000000&height=340&section=header&text=KHUSHAL%20YADAV&fontSize=90&fontAlignY=35&animation=twinkling&fontColor=FFD700&desc=%E2%9C%A6%20FULL%20STACK%20ENGINEER%20%C2%B7%20AI%20ARCHITECT%20%C2%B7%20OPEN%20SOURCE%20BUILDER%20%E2%9C%A6&descSize=16&descAlignY=62&stroke=FFD700&strokeWidth=2" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,25:0d0820,50:1a0f3d,75:0d0820,100:000000&height=360&section=header&text=KHUSHAL%20YADAV&fontSize=92&fontAlignY=32&animation=twinkling&fontColor=FFD700&desc=%E2%9C%A6%20FULL%20STACK%20ENGINEER%20%C2%B7%20AI%20ARCHITECT%20%C2%B7%20OPEN%20SOURCE%20BUILDER%20%E2%9C%A6&descSize=16&descAlignY=58&stroke=FFD700&strokeWidth=2" width="100%"/>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="180">
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="170">
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=700&size=26&duration=3000&pause=800&color=FFD700&background=00000000&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=110&lines=%E2%9A%94%EF%B8%8F+In+a+world+of+bugs+and+deadlines...;One+engineer+ships+what+others+only+plan.;%E2%80%9CFirst%2C+solve+the+problem.+Then%2C+write+the+code.%E2%80%9D" alt="cinematic-tagline"/>
+<img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=700&size=25&duration=3000&pause=800&color=FFD700&background=00000000&center=true&vCenter=true&multiline=true&repeat=true&width=820&height=110&lines=%E2%9A%94%EF%B8%8F+In+a+world+of+bugs+and+deadlines...;One+engineer+ships+what+others+only+plan.;%E2%80%9CFirst%2C+solve+the+problem.+Then%2C+write+the+code.%E2%80%9D" alt="cinematic-tagline"/>
 
 <br/><br/>
 
@@ -18,7 +18,18 @@
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/🧠_AI_%2F_ML-000000?style=flat-square&labelColor=FFD700&color=000000" />
+  <img src="https://img.shields.io/badge/☁️_CLOUD_%2F_DEVOPS-000000?style=flat-square&labelColor=FFD700&color=000000" />
+  <img src="https://img.shields.io/badge/🏆_SIH_FINALIST-000000?style=flat-square&labelColor=FFD700&color=000000" />
+  <img src="https://img.shields.io/badge/⚔️_500%2B_LEETCODE-000000?style=flat-square&labelColor=FFD700&color=000000" />
+</p>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=KhushalYadav535&label=WATCHING+THIS+PROFILE&color=FFD700&style=for-the-badge&labelColor=000000" />
+  &nbsp;
+  <img src="https://img.shields.io/github/followers/KhushalYadav535?label=FOLLOWERS&style=for-the-badge&color=FFD700&labelColor=000000&logo=github&logoColor=FFD700" />
+  &nbsp;
+  <img src="https://img.shields.io/github/stars/KhushalYadav535?label=TOTAL%20STARS&style=for-the-badge&color=FFD700&labelColor=000000&logo=github&logoColor=FFD700" />
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&customColorList=6&height=3&section=header" width="80%"/>
@@ -27,7 +38,49 @@
 
 <br/>
 
-## 〈  act i — origin story 〉
+<div align="center">
+
+### 〈 TABLE OF CONTENTS 〉
+
+| Act | Scene |
+|:---:|:---|
+| **Prologue** | [The Cold Open](#-prologue--the-cold-open) |
+| **Act I** | [Origin Story](#-act-i--origin-story) |
+| **Act II** | [The Numbers Don't Lie](#-act-ii--the-numbers-dont-lie) |
+| **Act III** | [The Arsenal Reveal](#-act-iii--the-arsenal-reveal) |
+| **Act IV** | [The Showcase](#-act-iv--the-showcase) |
+| **Act V** | [The Trials](#-act-v--the-trials) |
+| **Act VI** | [The Trophy Room](#-act-vi--the-trophy-room) |
+| **Act VII** | [Behind The Scenes](#-act-vii--behind-the-scenes) |
+| **Finale** | [The Credits Roll](#-final-act--the-credits-roll) |
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&customColorList=6&height=3&section=header" width="80%"/>
+
+<br/>
+
+## 🎬 PROLOGUE — THE COLD OPEN
+
+<div align="center">
+
+```
+┌──────────────────────────────────────────────────────────┐
+│                                                            │
+│   "Every great build starts the same way —                │
+│    a blank terminal, a strong coffee,                     │
+│    and a problem worth solving."                          │
+│                                                            │
+│                                        — Khushal Yadav     │
+│                                                            │
+└──────────────────────────────────────────────────────────┘
+```
+
+</div>
+
+<br/>
+
+## 〈 ACT I — ORIGIN STORY 〉
 
 <img align="right" width="340" src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" />
 
@@ -69,11 +122,28 @@ const protagonist: Engineer = {
 
 <br clear="both"/>
 
+<div align="center">
+
+### 📜 CHARACTER SHEET
+
+| Attribute | Value |
+|:---|:---|
+| 🎓 Role | Full Stack Engineer · AI Architect |
+| 🌍 Base | India |
+| ⏳ Experience | 2+ Years, still counting |
+| 🗂️ Repositories | 110+ |
+| 🔥 Commits | 1000+ |
+| ⚔️ LeetCode | 500+ solved · 1800+ rating |
+| 🏆 Competitions | Smart India Hackathon Finalist |
+| 🎲 Fun Fact | Solves a Rubik's cube in under 2 minutes |
+
+</div>
+
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&customColorList=6&height=3&section=header" width="80%"/>
 
 <br/>
 
-## 〈 act ii — the numbers don't lie 〉
+## 〈 ACT II — THE NUMBERS DON'T LIE 〉
 
 <div align="center">
 
@@ -89,13 +159,31 @@ const protagonist: Engineer = {
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KhushalYadav535&theme=github_dark" width="98%"/>
 
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=KhushalYadav535&bg_color=00000000&color=FFD700&line=FF4500&point=FFFFFF&area=true&hide_border=true&border_radius=14&custom_title=📆+365-Day+Commit+Trail&theme=react-dark" width="98%"/>
+
+</div>
+
+<div align="center">
+
+### 📐 THE VITALS TABLE
+
+| Metric | Count | Metric | Count |
+|:---|:---:|:---|:---:|
+| Repositories | 110+ | Commits | 1000+ |
+| LeetCode Solved | 500+ | LeetCode Rating | 1800+ |
+| Years Active | 2+ | Global LeetCode Rank | Top 15% |
+| HackerRank ★ (C++) | 5/5 | HackerRank ★ (Python) | 5/5 |
+| HackerRank Badge (SQL) | 🥇 Gold | HackerRank Badge (Java) | 🥈 Silver |
+
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&customColorList=6&height=3&section=header" width="80%"/>
 
 <br/>
 
-## 〈 act iii — the arsenal reveal 〉
+## 〈 ACT III — THE ARSENAL REVEAL 〉
 
 <div align="center">
 
@@ -125,11 +213,34 @@ const protagonist: Engineer = {
 
 </div>
 
+<br/>
+
+### 🧬 SKILL PROFICIENCY MATRIX
+
+| Domain | Technology | Proficiency |
+|:---|:---|:---|
+| Frontend | React | ████████████████░░ 90% |
+| Frontend | Next.js | ███████████████░░░ 85% |
+| Frontend | TypeScript | ██████████████░░░░ 80% |
+| Frontend | Tailwind CSS | █████████████████░ 92% |
+| Backend | Node.js / Express | █████████████████░ 90% |
+| Backend | Django | ██████████████░░░░ 75% |
+| Backend | FastAPI | ███████████████░░░ 82% |
+| Database | MongoDB | █████████████████░ 90% |
+| Database | PostgreSQL | ██████████████░░░░ 78% |
+| Database | Redis | █████████████░░░░░ 70% |
+| AI / ML | TensorFlow | ██████████████░░░░ 76% |
+| AI / ML | PyTorch | █████████████░░░░░ 72% |
+| AI / ML | OpenCV | ███████████████░░░ 84% |
+| DevOps | Docker | ███████████████░░░ 85% |
+| DevOps | AWS | █████████████░░░░░ 70% |
+| DevOps | Linux | ████████████████░░ 88% |
+
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&customColorList=6&height=3&section=header" width="80%"/>
 
 <br/>
 
-## 〈 act iv — the showcase 〉
+## 〈 ACT IV — THE SHOWCASE 〉
 
 > *Handpicked from 110+ repositories — battle-tested, production-grade builds*
 
@@ -223,13 +334,18 @@ Status   →  ✅ Production Ready
 
 ### 🎞️ DEEP CUTS FROM THE VAULT
 
-| Project | Stack | Category |
-|---|---|---|
-| 🔗 REST API Boilerplate | Node.js · Express · JWT · MongoDB | Backend Template |
-| 🧠 Face Recognition System | Python · OpenCV · DeepFace | AI/ML |
-| 📊 Data Dashboard | React · Recharts · FastAPI | Analytics |
-| 🛒 E-Commerce API | Node.js · PostgreSQL · Redis | Full-Stack |
-| 🤖 Chatbot Integration | Python · Flask · Transformers | NLP/AI |
+| # | Project | Stack | Category | Highlight |
+|:---:|:---|:---|:---|:---|
+| 01 | REST API Boilerplate | Node.js · Express · JWT · MongoDB | Backend Template | Auth + RBAC out of the box |
+| 02 | Face Recognition System | Python · OpenCV · DeepFace | AI/ML | Real-time webcam inference |
+| 03 | Data Dashboard | React · Recharts · FastAPI | Analytics | Live-updating charts |
+| 04 | E-Commerce API | Node.js · PostgreSQL · Redis | Full-Stack | Cart + payment flow |
+| 05 | Chatbot Integration | Python · Flask · Transformers | NLP/AI | Context-aware replies |
+| 06 | Society Management App | React Native · Node.js | Full-Stack | Multi-tenant residents app |
+| 07 | Virtual Trading Simulator | Node.js · WebSockets | FinTech | Real-time price simulation |
+| 08 | Food Delivery App | React Native (Expo) · Node.js | Full-Stack | Order tracking + backend |
+| 09 | OCR Text Extraction Service | Python · Flask · PaddleOCR | AI/ML | Document text extraction |
+| 10 | Multi-Tenant Voice Agent Platform | Node.js · TTS/LLM stack | AI Voice | Hindi/Hinglish voice agents |
 
 [![See All 110+ Repos](https://img.shields.io/badge/🗂_EXPLORE_ALL_110%2B_REPOSITORIES-000000?style=for-the-badge&labelColor=FFD700)](https://github.com/KhushalYadav535?tab=repositories&sort=stars)
 
@@ -239,7 +355,7 @@ Status   →  ✅ Production Ready
 
 <br/>
 
-## 〈 act v — the trials 〉
+## 〈 ACT V — THE TRIALS 〉
 
 <div align="center">
 
@@ -278,13 +394,33 @@ Status   →  ✅ Production Ready
 </tr>
 </table>
 
+<br/>
+
+### 🗺️ THE JOURNEY SO FAR
+
+```
+2023  ●───────────────────────────────────────────────
+      │  Started serious full-stack development
+      │
+2024  ●───────────────────────────────────────────────
+      │  Crossed 50+ repositories · deep dive into AI/ML
+      │
+2025  ●───────────────────────────────────────────────
+      │  Smart India Hackathon Finalist (AI Vision System)
+      │  LeetCode rating crossed 1800+
+      │
+2026  ●───────────────────────────────────────────────
+      │  110+ repos · 1000+ commits · building Vaani AI
+      │  (multi-tenant Hindi/Hinglish voice agent platform)
+```
+
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&customColorList=6&height=3&section=header" width="80%"/>
 
 <br/>
 
-## 〈 act vi — the trophy room 〉
+## 〈 ACT VI — THE TROPHY ROOM 〉
 
 <div align="center">
 
@@ -300,11 +436,60 @@ Status   →  ✅ Production Ready
 
 </div>
 
+<br/>
+
+### 🥇 ACHIEVEMENT WALL
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/🏆_SIH_FINALIST-000000?style=for-the-badge&labelColor=FFD700" />
+<img src="https://img.shields.io/badge/⚔️_1800%2B_LEETCODE_RATING-000000?style=for-the-badge&labelColor=FFD700" />
+<img src="https://img.shields.io/badge/🥇_GOLD_SQL_BADGE-000000?style=for-the-badge&labelColor=FFD700" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/🗂️_110%2B_PUBLIC_REPOS-000000?style=for-the-badge&labelColor=FFD700" />
+<img src="https://img.shields.io/badge/🔥_1000%2B_COMMITS-000000?style=for-the-badge&labelColor=FFD700" />
+<img src="https://img.shields.io/badge/🌍_TOP_15%25_GLOBAL-000000?style=for-the-badge&labelColor=FFD700" />
+
+</div>
+
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&customColorList=6&height=3&section=header" width="80%"/>
 
 <br/>
 
-## 〈 final act — the credits roll 〉
+## 〈 ACT VII — BEHIND THE SCENES 〉
+
+<div align="center">
+
+### 🎥 HOW A PROJECT GETS BUILT
+
+```
+┌─────────────┐    ┌─────────────┐    ┌─────────────┐    ┌─────────────┐
+│   PROBLEM   │ →  │    DESIGN   │ →  │    BUILD    │ →  │    SHIP     │
+│  Understand │    │   Architect │    │   Code +    │    │  Deploy +   │
+│  the real   │    │   the       │    │   Test      │    │  Monitor    │
+│  ask first  │    │   system    │    │   daily     │    │  in prod    │
+└─────────────┘    └─────────────┘    └─────────────┘    └─────────────┘
+```
+
+### 🛠️ THE DAILY LOOP
+
+| Time | Activity |
+|:---|:---|
+| 🌅 Morning | Review overnight builds, triage issues |
+| 🧑‍💻 Deep Work | Feature builds, architecture, AI model tuning |
+| 🧪 Testing | Unit + integration tests before every merge |
+| 🚀 Deploy | Docker + Traefik on VPS, or Vercel edge |
+| 🌙 Wind Down | LeetCode grind · open source contributions |
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&customColorList=6&height=3&section=header" width="80%"/>
+
+<br/>
+
+## 〈 FINAL ACT — THE CREDITS ROLL 〉
 
 <div align="center">
 
@@ -333,6 +518,26 @@ Status   →  ✅ Production Ready
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true" width="680"/>
 
 <br/><br/>
+
+```
+┌──────────────────────────────────────────────────────────┐
+│                                                            │
+│   CAST                                                    │
+│   ────────────────────────────────────────────────────    │
+│   Lead Engineer .......................  Khushal Yadav    │
+│   AI Architect .........................  Khushal Yadav   │
+│   Bug Fixer (uncredited) ...............  Khushal Yadav   │
+│                                                            │
+│   PRODUCED WITH                                            │
+│   ────────────────────────────────────────────────────    │
+│   Coffee ................................  Unlimited      │
+│   Deadlines ..............................  Respected     │
+│   Sleep ...................................  Negotiable   │
+│                                                            │
+└──────────────────────────────────────────────────────────┘
+```
+
+<br/>
 
 **Built with intent &nbsp;·&nbsp; Shipped with discipline &nbsp;·&nbsp; [KhushalYadav535](https://github.com/KhushalYadav535)**
 
