@@ -1,552 +1,2159 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,25:0d0820,50:1a0f3d,75:0d0820,100:000000&height=360&section=header&text=KHUSHAL%20YADAV&fontSize=92&fontAlignY=32&animation=twinkling&fontColor=FFD700&desc=%E2%9C%A6%20FULL%20STACK%20ENGINEER%20%C2%B7%20AI%20ARCHITECT%20%C2%B7%20OPEN%20SOURCE%20BUILDER%20%E2%9C%A6&descSize=16&descAlignY=58&stroke=FFD700&strokeWidth=2" width="100%"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:000000,20:050816,40:071B34,60:0A2647,80:071B34,100:000000&text=KHUSHAL%20YADAV&fontColor=00F5FF&fontSize=82&animation=twinkling&fontAlignY=36&desc=AI%20ENGINEER%20•%20FULL%20STACK%20DEVELOPER%20•%20PRODUCT%20BUILDER&descAlignY=60&descSize=18"/>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="170">
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&duration=2500&pause=800&color=00F5FF&center=true&vCenter=true&width=950&lines=INITIALIZING+KHUSHAL+OS...;Loading+AI+Modules...;Connecting+to+GitHub...;Booting+Neural+Network...;Mission+Ready+🚀" />
 
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=700&size=25&duration=3000&pause=800&color=FFD700&background=00000000&center=true&vCenter=true&multiline=true&repeat=true&width=820&height=110&lines=%E2%9A%94%EF%B8%8F+In+a+world+of+bugs+and+deadlines...;One+engineer+ships+what+others+only+plan.;%E2%80%9CFirst%2C+solve+the+problem.+Then%2C+write+the+code.%E2%80%9D" alt="cinematic-tagline"/>
-
-<br/><br/>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/⚡_FULL_STACK_ENGINEER-000000?style=for-the-badge&labelColor=FFD700&color=000000" />
-  <img src="https://img.shields.io/badge/🎬_2%2B_YEARS_IN_THE_GAME-000000?style=for-the-badge&labelColor=FFD700&color=000000" />
-  <img src="https://img.shields.io/badge/🗂️_110%2B_REPOS-000000?style=for-the-badge&labelColor=FFD700&color=000000" />
-  <img src="https://img.shields.io/badge/🔥_1000%2B_COMMITS-000000?style=for-the-badge&labelColor=FFD700&color=000000" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/🧠_AI_%2F_ML-000000?style=flat-square&labelColor=FFD700&color=000000" />
-  <img src="https://img.shields.io/badge/☁️_CLOUD_%2F_DEVOPS-000000?style=flat-square&labelColor=FFD700&color=000000" />
-  <img src="https://img.shields.io/badge/🏆_SIH_FINALIST-000000?style=flat-square&labelColor=FFD700&color=000000" />
-  <img src="https://img.shields.io/badge/⚔️_500%2B_LEETCODE-000000?style=flat-square&labelColor=FFD700&color=000000" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=KhushalYadav535&label=WATCHING+THIS+PROFILE&color=FFD700&style=for-the-badge&labelColor=000000" />
-  &nbsp;
-  <img src="https://img.shields.io/github/followers/KhushalYadav535?label=FOLLOWERS&style=for-the-badge&color=FFD700&labelColor=000000&logo=github&logoColor=FFD700" />
-  &nbsp;
-  <img src="https://img.shields.io/github/stars/KhushalYadav535?label=TOTAL%20STARS&style=for-the-badge&color=FFD700&labelColor=000000&logo=github&logoColor=FFD700" />
-</p>
-
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&customColorList=6&height=3&section=header" width="80%"/>
+<img src="https://user-images.githubusercontent.com/74038190/212284126-77d8f684-6c30-4f4d-b151-7d2d7fa8a2d6.gif" width="240"/>
 
 </div>
 
-<br/>
+---
+
+# > SYSTEM BOOT
+
+```text
+──────────────────────────────────────────────────────────────
+
+ AI CORE              ████████████████████ 100%
+
+ FULL STACK           ████████████████████ 100%
+
+ PRODUCT BUILDING     ████████████████████ 100%
+
+ COFFEE LEVEL         ███████████████░░░░ 82%
+
+ MOTIVATION           ████████████████████ ∞
+
+ BUGS REMAINING       ░░░░░░░░░░░░░░░░░░░░ 0
+
+ STATUS
+
+ ONLINE ●
+
+──────────────────────────────────────────────────────────────
+```
+
+---
 
 <div align="center">
 
-### 〈 TABLE OF CONTENTS 〉
-
-| Act | Scene |
-|:---:|:---|
-| **Prologue** | [The Cold Open](#-prologue--the-cold-open) |
-| **Act I** | [Origin Story](#-act-i--origin-story) |
-| **Act II** | [The Numbers Don't Lie](#-act-ii--the-numbers-dont-lie) |
-| **Act III** | [The Arsenal Reveal](#-act-iii--the-arsenal-reveal) |
-| **Act IV** | [The Showcase](#-act-iv--the-showcase) |
-| **Act V** | [The Trials](#-act-v--the-trials) |
-| **Act VI** | [The Trophy Room](#-act-vi--the-trophy-room) |
-| **Act VII** | [Behind The Scenes](#-act-vii--behind-the-scenes) |
-| **Finale** | [The Credits Roll](#-final-act--the-credits-roll) |
+# 🤖 JARVIS INTERFACE
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&customColorList=6&height=3&section=header" width="80%"/>
+```text
+╔══════════════════════════════════════════════════════╗
+║                                                      ║
+║          WELCOME BACK KHUSHAL YADAV                 ║
+║                                                      ║
+║  AI SYSTEMS............... ONLINE                    ║
+║  GITHUB PROFILE.......... CONNECTED                  ║
+║  OPEN SOURCE............. ACTIVE                     ║
+║  DEPLOYMENT SERVER....... READY                      ║
+║  PRODUCT MODE............ ENABLED                    ║
+║                                                      ║
+║  CURRENT OBJECTIVE                                  ║
+║                                                      ║
+║  BUILD PRODUCTS THAT PEOPLE REMEMBER.               ║
+║                                                      ║
+╚══════════════════════════════════════════════════════╝
+```
 
-<br/>
+---
 
-## 🎬 PROLOGUE — THE COLD OPEN
+# 🎬 THE TRAILER
+
+> Every engineer writes code.
+
+> Some build applications.
+
+> A few build products.
+
+> **But legends build ecosystems.**
+
+---
 
 <div align="center">
 
-```
-┌──────────────────────────────────────────────────────────┐
-│                                                            │
-│   "Every great build starts the same way —                │
-│    a blank terminal, a strong coffee,                     │
-│    and a problem worth solving."                          │
-│                                                            │
-│                                        — Khushal Yadav     │
-│                                                            │
-└──────────────────────────────────────────────────────────┘
-```
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="450"/>
 
 </div>
 
-<br/>
+---
 
-## 〈 ACT I — ORIGIN STORY 〉
-
-<img align="right" width="340" src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" />
+# 🌌 WHO AM I ?
 
 ```typescript
-const protagonist: Engineer = {
-  name      : "Khushal Yadav",
-  location  : "India 🇮🇳",
-  role      : "Full Stack Engineer · AI Architect",
-  experience: "2+ Years",
-  arsenal   : "110+ Repositories · 1000+ Commits",
+const khushal = {
 
-  powers: {
-    frontend : ["React", "Next.js", "TypeScript", "Tailwind CSS"],
-    backend  : ["Node.js", "Express", "Django", "FastAPI"],
-    database : ["MongoDB", "PostgreSQL", "MySQL", "Redis"],
-    ai_ml    : ["TensorFlow", "PyTorch", "OpenCV", "scikit-learn"],
-    devops   : ["Docker", "AWS", "Vercel", "Linux"],
-  },
+name: "Khushal Yadav",
 
-  currentMission: [
-    "Building AI-powered full-stack applications",
-    "Competing in Smart India Hackathon",
-    "Grinding LeetCode — 500+ solved · Rating 1800+",
-    "Open to: collabs · freelance · open source",
-  ],
+role: "Software Engineer",
 
-  easterEgg : "Solves a Rubik's cube in under 2 minutes ⚡",
-  contact   : "khushalyadavofficial@gmail.com",
-};
+passion: "Building AI Products",
+
+mission: "Create products that impact millions.",
+
+currentlyBuilding: [
+
+"🎙 VaaniAI",
+
+"🍕 Gaon Zaika",
+
+"📄 Resume Builder",
+
+"🏢 HRMS",
+
+"🤖 AI Helpdesk",
+
+"📈 Trading Platform",
+
+"🌾 OCR SaaS"
+
+],
+
+mindset:
+
+"Dream Big. Build Bigger.",
+
+lifeCycle:
+
+"Coffee → Code → Deploy → Repeat"
+
+}
 ```
+
+---
+
+# 🚀 LIVE STATUS
+
+| SYSTEM | STATUS |
+|---------|--------|
+| 🤖 AI Development | 🟢 ONLINE |
+| 💻 Full Stack | 🟢 ACTIVE |
+| 🐳 Docker | 🟢 RUNNING |
+| ☁ VPS | 🟢 CONNECTED |
+| 🚀 Deployments | 🟢 SUCCESS |
+| 🧠 Learning | ♾ NEVER STOPS |
+
+---
+
+# 🧠 DIGITAL DOODLE
+
+```text
+
+                         ☁
+
+                    DREAM BIG
+
+                         ★
+
+            🤖
+
+       AI ENGINEER
+
+            │
+
+            ▼
+
+       💻 FULL STACK
+
+      ╱      │       ╲
+
+React   Node.js   Python
+
+      ╲      │      ╱
+
+         Docker
+
+            │
+
+            ▼
+
+      PRODUCT BUILDER
+
+       ╱      │      ╲
+
+   Resume   Voice AI   HRMS
+
+      ╲      │      ╱
+
+      🚀 STARTUPS
+
+      ╱     │      ╲
+
+Gaon Zaika
+
+Trading
+
+OCR SaaS
+
+            │
+
+            ▼
+
+      NEVER STOP BUILDING
+
+```
+
+---
+
+<div align="center">
+
+## ⚡ CURRENT MISSION
+
+</div>
+
+```text
+
+MISSION #001
+
+Build AI products.
+
+MISSION #002
+
+Help thousands of developers.
+
+MISSION #003
+
+Create India's next great startup.
+
+MISSION #004
+
+Keep learning forever.
+
+MISSION #005
+
+Never stop shipping.
+
+```
+
+---
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=KhushalYadav535&show_icons=true&theme=transparent&hide_border=true"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## 🎬 END OF ACT I
+
+Loading...
+
+ACT II
+
+██████████░░░░░░░░░
+
+AI ENGINEER PROFILE
+
+```
+TO BE CONTINUED...
+```
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:000000,40:071B34,60:0A2647,100:000000"/>
+---
+
+# 🧬 ACT II — THE ORIGIN STORY
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/216656963-09118229-c296-4f63-8668-7b54e663815d.gif" width="240"/>
+
+## "Every masterpiece starts with curiosity."
+
+</div>
+
+```text
+There was no shortcut.
+
+No perfect roadmap.
+
+Just a laptop.
+
+A dream.
+
+Thousands of bugs.
+
+Hundreds of sleepless nights.
+
+And the belief that
+
+"One day, this code will change someone's life."
+```
+
+---
+
+# 👨‍💻 CHARACTER PROFILE
+
+```typescript
+const player = {
+
+name: "Khushal Yadav",
+
+class: "AI Engineer",
+
+guild: "Sentient Digital",
+
+level: 99,
+
+alignment: "Builder",
+
+title: "The Product Architect",
+
+weapon: "VS Code",
+
+armor: "Docker Containers",
+
+specialAbility: [
+"AI Systems",
+"Full Stack Development",
+"System Design",
+"Automation",
+"Cloud Deployment"
+],
+
+ultimateSkill:
+"Turning ideas into products."
+
+}
+```
+
+---
+
+# 🎮 RPG CHARACTER CARD
+
+<div align="center">
+
+| ATTRIBUTE | LEVEL |
+|-----------|-------|
+| ❤️ Passion | ████████████████████ 100% |
+| 🧠 Problem Solving | ██████████████████░ 95% |
+| ⚡ Full Stack | ███████████████████ 98% |
+| 🤖 AI | ██████████████████░ 96% |
+| ☁ DevOps | ████████████████░░░ 88% |
+| 🚀 Product Thinking | ███████████████████ 99% |
+| ☕ Coffee Resistance | ███████████████████ 100% |
+
+</div>
+
+---
+
+# 🌍 MY JOURNEY
+
+```text
+
+        Student
+
+           │
+
+           ▼
+
+HTML & CSS
+
+           │
+
+           ▼
+
+JavaScript
+
+           │
+
+           ▼
+
+React.js
+
+           │
+
+           ▼
+
+Backend Development
+
+           │
+
+           ▼
+
+Node.js
+
+           │
+
+           ▼
+
+MongoDB
+
+           │
+
+           ▼
+
+Docker
+
+           │
+
+           ▼
+
+Cloud
+
+           │
+
+           ▼
+
+Artificial Intelligence
+
+           │
+
+           ▼
+
+Building Products
+
+           │
+
+           ▼
+
+Building Startups
+
+```
+
+---
+
+# 🛰 AI CONTROL CENTER
+
+```text
+
+╔═══════════════════════════════════════════════╗
+
+      KHUSHAL AI OPERATING SYSTEM
+
+═══════════════════════════════════════════════
+
+AI Engine
+
+████████████████████
+
+ONLINE
+
+───────────────────────────────────────────────
+
+Deployment Engine
+
+██████████████████
+
+READY
+
+───────────────────────────────────────────────
+
+Product Engine
+
+████████████████████
+
+RUNNING
+
+───────────────────────────────────────────────
+
+Learning Engine
+
+████████████████████
+
+ACTIVE
+
+───────────────────────────────────────────────
+
+Mission Status
+
+BUILD.
+
+DEPLOY.
+
+REPEAT.
+
+═══════════════════════════════════════════════╝
+
+```
+
+---
+
+# 🧠 MEMORY MAP
+
+```text
+
+                     ☁ DREAMS
+
+                        ▲
+
+                        │
+
+               🚀 STARTUPS
+
+                        ▲
+
+                        │
+
+      🍕 Gaon Zaika
+
+📄 Resume Builder
+
+🎙 VaaniAI
+
+🏢 HRMS
+
+📈 Trading
+
+🤖 AI Helpdesk
+
+🌾 OCR SaaS
+
+                        ▲
+
+                        │
+
+      Docker
+
+React
+
+Node.js
+
+Python
+
+Gemini
+
+Linux
+
+                        ▲
+
+                        │
+
+                KHUSHAL
+
+```
+
+---
+
+# 🎯 CURRENT OBJECTIVES
+
+```text
+
+[✔] Ship Production Ready Products
+
+[✔] Learn Every Day
+
+[✔] Build AI Applications
+
+[✔] Open Source Contributions
+
+[✔] Help Developers
+
+[ ] Build Unicorn Startup
+
+```
+
+---
+
+# ⚔ DAILY QUESTS
 
 ```yaml
-# ── LIVE STATUS ──────────────────────────────────────
-  🎬 Scene   →  AI + Full-Stack Projects (daily commits)
-  📚 Study   →  System Design · Microservices · Cloud Arch
-  🤝 Open    →  Collaborations · Freelance · Open Source
-  ⚡ Power   →  Converts ☕ into 💻 at alarming efficiency
+
+Morning:
+- Review Production
+- Fix Bugs
+
+Afternoon:
+- Ship Features
+- Team Collaboration
+
+Evening:
+- LeetCode
+- AI Research
+
+Night:
+- Deploy
+- Learn Something New
+
+Repeat Forever.
+
 ```
 
-<br clear="both"/>
+---
+
+# 🎨 DIGITAL DOODLE
+
+```text
+
+                   ⭐
+
+            NEVER STOP
+
+              BUILDING
+
+                 │
+
+                 ▼
+
+          👨‍💻 KHUSHAL
+
+        ╱      │      ╲
+
+    ⚛ React
+
+   🟢 Node
+
+   🐍 Python
+
+        ╲      │      ╱
+
+        🤖 Artificial Intelligence
+
+                 │
+
+        ☁ Cloud + Docker
+
+                 │
+
+      🚀 Product Builder
+
+      ╱       │       ╲
+
+ Resume
+
+ Voice AI
+
+ HRMS
+
+ Helpdesk
+
+ OCR
+
+ Trading
+
+ Gaon Zaika
+
+                 │
+
+           BUILD IMPACT
+
+                 │
+
+          HELP MILLIONS
+
+```
+
+---
+
+# 💎 PHILOSOPHY
+
+> Build.
+
+> Learn.
+
+> Share.
+
+> Repeat.
+
+---
 
 <div align="center">
 
-### 📜 CHARACTER SHEET
-
-| Attribute | Value |
-|:---|:---|
-| 🎓 Role | Full Stack Engineer · AI Architect |
-| 🌍 Base | India |
-| ⏳ Experience | 2+ Years, still counting |
-| 🗂️ Repositories | 110+ |
-| 🔥 Commits | 1000+ |
-| ⚔️ LeetCode | 500+ solved · 1800+ rating |
-| 🏆 Competitions | Smart India Hackathon Finalist |
-| 🎲 Fun Fact | Solves a Rubik's cube in under 2 minutes |
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&customColorList=6&height=3&section=header" width="80%"/>
-
-<br/>
-
-## 〈 ACT II — THE NUMBERS DON'T LIE 〉
+---
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=KhushalYadav535&show_icons=true&count_private=true&hide_border=true&title_color=FFD700&icon_color=FFD700&text_color=E8D5B7&bg_color=00000000&border_radius=14&include_all_commits=true&custom_title=📊+Battle+Stats" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=KhushalYadav535&theme=dark&hide_border=true&stroke=FFD700&background=00000000&ring=FFD700&fire=FF4500&currStreakLabel=FFD700&border_radius=14" />
+# 🎬 END OF ACT II
 
-<br/><br/>
+Loading...
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhushalYadav535&layout=compact&hide_border=true&title_color=FFD700&text_color=E8D5B7&bg_color=00000000&border_radius=14&langs_count=10&custom_title=🧬+Language+DNA" />
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=KhushalYadav535&bg_color=00000000&color=FFD700&line=FFD700&point=FF4500&area=true&area_color=FFD700&hide_border=true&border_radius=14&custom_title=📈+Momentum" />
+███████████████░░░░░
 
-<br/><br/>
+Preparing...
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KhushalYadav535&theme=github_dark" width="98%"/>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=KhushalYadav535&bg_color=00000000&color=FFD700&line=FF4500&point=FFFFFF&area=true&hide_border=true&border_radius=14&custom_title=📆+365-Day+Commit+Trail&theme=react-dark" width="98%"/>
-
-</div>
-
-<div align="center">
-
-### 📐 THE VITALS TABLE
-
-| Metric | Count | Metric | Count |
-|:---|:---:|:---|:---:|
-| Repositories | 110+ | Commits | 1000+ |
-| LeetCode Solved | 500+ | LeetCode Rating | 1800+ |
-| Years Active | 2+ | Global LeetCode Rank | Top 15% |
-| HackerRank ★ (C++) | 5/5 | HackerRank ★ (Python) | 5/5 |
-| HackerRank Badge (SQL) | 🥇 Gold | HackerRank Badge (Java) | 🥈 Silver |
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&customColorList=6&height=3&section=header" width="80%"/>
-
-<br/>
-
-## 〈 ACT III — THE ARSENAL REVEAL 〉
-
-<div align="center">
-
-**⚔ LANGUAGES**
-<br/>
-<img src="https://skillicons.dev/icons?i=python,js,ts,cpp" />
-
-**🎨 FRONTEND**
-<br/>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux,html,css" />
-
-**🛠️ BACKEND**
-<br/>
-<img src="https://skillicons.dev/icons?i=nodejs,express,django,fastapi,flask" />
-
-**🗄️ DATABASE & CLOUD**
-<br/>
-<img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,redis,aws,firebase" />
-
-**🧠 AI / ML**
-<br/>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn" />
-
-**⚙️ DEVOPS & TOOLS**
-<br/>
-<img src="https://skillicons.dev/icons?i=docker,git,github,linux,postman,vscode,figma" />
-
-</div>
-
-<br/>
-
-### 🧬 SKILL PROFICIENCY MATRIX
-
-| Domain | Technology | Proficiency |
-|:---|:---|:---|
-| Frontend | React | ████████████████░░ 90% |
-| Frontend | Next.js | ███████████████░░░ 85% |
-| Frontend | TypeScript | ██████████████░░░░ 80% |
-| Frontend | Tailwind CSS | █████████████████░ 92% |
-| Backend | Node.js / Express | █████████████████░ 90% |
-| Backend | Django | ██████████████░░░░ 75% |
-| Backend | FastAPI | ███████████████░░░ 82% |
-| Database | MongoDB | █████████████████░ 90% |
-| Database | PostgreSQL | ██████████████░░░░ 78% |
-| Database | Redis | █████████████░░░░░ 70% |
-| AI / ML | TensorFlow | ██████████████░░░░ 76% |
-| AI / ML | PyTorch | █████████████░░░░░ 72% |
-| AI / ML | OpenCV | ███████████████░░░ 84% |
-| DevOps | Docker | ███████████████░░░ 85% |
-| DevOps | AWS | █████████████░░░░░ 70% |
-| DevOps | Linux | ████████████████░░ 88% |
-
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&customColorList=6&height=3&section=header" width="80%"/>
-
-<br/>
-
-## 〈 ACT IV — THE SHOWCASE 〉
-
-> *Handpicked from 110+ repositories — battle-tested, production-grade builds*
-
-<div align="center">
-
-### 🏆 FLAGSHIP — AI & COMPUTER VISION
-
-<table>
-<tr>
-<td width="50%" valign="top">
-<div align="center">
-
-**✦ SIH · AI VISION SYSTEM**
-*Smart India Hackathon — National Level*
+TECH GALAXY
 
 ```
-Stack    →  Python · Flask · OpenCV · TensorFlow
-Domain   →  Computer Vision + Deep Learning
-Feature  →  Real-time object detection & analytics
-Status   →  🏆 Hackathon Finalist
-```
-
-[![Repo](https://img.shields.io/badge/▶_VIEW_PROJECT-000000?style=for-the-badge&labelColor=FFD700&logo=github&logoColor=000000)](https://github.com/KhushalYadav535)
-
-</div>
-</td>
-<td width="50%" valign="top">
-<div align="center">
-
-**✦ ML ANALYTICS PIPELINE**
-*End-to-End Data Intelligence*
-
-```
-Stack    →  Python · scikit-learn · FastAPI · Docker
-Domain   →  Machine Learning + API Design
-Feature  →  Automated model training + REST API
-Status   →  ✅ Production Ready
-```
-
-[![Repo](https://img.shields.io/badge/▶_VIEW_PROJECT-000000?style=for-the-badge&labelColor=FFD700&logo=github&logoColor=000000)](https://github.com/KhushalYadav535?tab=repositories)
-
-</div>
-</td>
-</tr>
-</table>
-
-<br/>
-
-### 🥈 FULL-STACK SPOTLIGHT
-
-<table>
-<tr>
-<td width="50%" valign="top">
-<div align="center">
-
-**✦ TODO MASTER**
-*Full-Stack Task Management App*
-
-<a href="https://github.com/KhushalYadav535/Todo-website">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=KhushalYadav535&repo=Todo-website&theme=dark&hide_border=true&bg_color=00000000&title_color=FFD700&icon_color=FFD700&text_color=e8d5b7&border_radius=14" />
-</a>
-
-`React` `Node.js` `MongoDB` `JWT` `Express`
-
-[![Live](https://img.shields.io/badge/🟢_LIVE_DEMO-000000?style=flat-square&labelColor=FFD700)](https://todo.khushal.com)
-[![Code](https://img.shields.io/badge/SOURCE-000000?style=flat-square&labelColor=FFD700&logo=github&logoColor=000000)](https://github.com/KhushalYadav535/Todo-website)
-
-</div>
-</td>
-<td width="50%" valign="top">
-<div align="center">
-
-**✦ PORTFOLIO V2**
-*Next.js 14 Developer Showcase*
-
-<a href="https://github.com/KhushalYadav535/portfolio">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=KhushalYadav535&repo=portfolio&theme=dark&hide_border=true&bg_color=00000000&title_color=FFD700&icon_color=FFD700&text_color=e8d5b7&border_radius=14" />
-</a>
-
-`Next.js` `TypeScript` `Tailwind` `Framer Motion` `Three.js`
-
-[![Visit](https://img.shields.io/badge/🟢_LIVE_SITE-000000?style=flat-square&labelColor=FFD700)](https://khushal.vercel.app)
-[![Code](https://img.shields.io/badge/SOURCE-000000?style=flat-square&labelColor=FFD700&logo=github&logoColor=000000)](https://github.com/KhushalYadav535/portfolio)
-
-</div>
-</td>
-</tr>
-</table>
-
-<br/>
-
-### 🎞️ DEEP CUTS FROM THE VAULT
-
-| # | Project | Stack | Category | Highlight |
-|:---:|:---|:---|:---|:---|
-| 01 | REST API Boilerplate | Node.js · Express · JWT · MongoDB | Backend Template | Auth + RBAC out of the box |
-| 02 | Face Recognition System | Python · OpenCV · DeepFace | AI/ML | Real-time webcam inference |
-| 03 | Data Dashboard | React · Recharts · FastAPI | Analytics | Live-updating charts |
-| 04 | E-Commerce API | Node.js · PostgreSQL · Redis | Full-Stack | Cart + payment flow |
-| 05 | Chatbot Integration | Python · Flask · Transformers | NLP/AI | Context-aware replies |
-| 06 | Society Management App | React Native · Node.js | Full-Stack | Multi-tenant residents app |
-| 07 | Virtual Trading Simulator | Node.js · WebSockets | FinTech | Real-time price simulation |
-| 08 | Food Delivery App | React Native (Expo) · Node.js | Full-Stack | Order tracking + backend |
-| 09 | OCR Text Extraction Service | Python · Flask · PaddleOCR | AI/ML | Document text extraction |
-| 10 | Multi-Tenant Voice Agent Platform | Node.js · TTS/LLM stack | AI Voice | Hindi/Hinglish voice agents |
-
-[![See All 110+ Repos](https://img.shields.io/badge/🗂_EXPLORE_ALL_110%2B_REPOSITORIES-000000?style=for-the-badge&labelColor=FFD700)](https://github.com/KhushalYadav535?tab=repositories&sort=stars)
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&customColorList=6&height=3&section=header" width="80%"/>
-
-<br/>
-
-## 〈 ACT V — THE TRIALS 〉
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="50%">
-
-**⚔ LEETCODE**
-
-<a href="https://leetcode.com/khushalyadav535/">
-  <img src="https://leetcard.jacoblin.cool/khushalyadav535?theme=dark&font=Nunito&ext=contest&border=0&radius=14" width="92%"/>
-</a>
-
-```
-✅ 500+ Problems Solved
-📈 Rating 1800+  ·  🌍 Top 15% Global
-```
-
-[![LeetCode](https://img.shields.io/badge/OPEN_LEETCODE-000000?style=for-the-badge&labelColor=FFA116&logo=leetcode&logoColor=000000)](https://leetcode.com/khushalyadav535/)
-
-</td>
-<td align="center" width="50%">
-
-**🏅 HACKERRANK**
-
-<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="130"/>
-
-```
-⭐⭐⭐⭐⭐  C++  ·  Python  ·  Problem Solving
-🥇 Gold  SQL   🥈 Silver  Java
-```
-
-[![HackerRank](https://img.shields.io/badge/OPEN_HACKERRANK-000000?style=for-the-badge&labelColor=2EC866&logo=hackerrank&logoColor=000000)](https://www.hackerrank.com/khushalyadav535)
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-### 🗺️ THE JOURNEY SO FAR
-
-```
-2023  ●───────────────────────────────────────────────
-      │  Started serious full-stack development
-      │
-2024  ●───────────────────────────────────────────────
-      │  Crossed 50+ repositories · deep dive into AI/ML
-      │
-2025  ●───────────────────────────────────────────────
-      │  Smart India Hackathon Finalist (AI Vision System)
-      │  LeetCode rating crossed 1800+
-      │
-2026  ●───────────────────────────────────────────────
-      │  110+ repos · 1000+ commits · building Vaani AI
-      │  (multi-tenant Hindi/Hinglish voice agent platform)
+TO BE CONTINUED...
 ```
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&customColorList=6&height=3&section=header" width="80%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:000000,30:001F3F,60:007CF0,100:000000"/>
+---
 
-<br/>
-
-## 〈 ACT VI — THE TROPHY ROOM 〉
+# 🌌 ACT III — THE TECHNOLOGY GALAXY
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=KhushalYadav535&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7" width="100%"/>
+<img src="https://user-images.githubusercontent.com/74038190/212750547-7d878f73-0e3e-4f47-8b4b-6d5f63cdd4df.gif" width="240"/>
 
-<br/>
+# ⚡ THE ARSENAL
+
+*"Every technology is a tool.*
+*Knowing when to use it is the real superpower."*
+
+</div>
+
+---
+
+# 🤖 AI COMMAND CENTER
+
+```text
+╔════════════════════════════════════════════════════════════╗
+
+                 KHUSHAL OS v3.0
+
+══════════════════════════════════════════════════════════════
+
+AI ENGINE
+███████████████████████
+
+ONLINE
+
+──────────────────────────────────────────────────────────────
+
+FULL STACK CORE
+███████████████████████
+
+ONLINE
+
+──────────────────────────────────────────────────────────────
+
+DEVOPS ENGINE
+████████████████████
+
+READY
+
+──────────────────────────────────────────────────────────────
+
+PRODUCT BUILDER
+███████████████████████
+
+ACTIVE
+
+──────────────────────────────────────────────────────────────
+
+MISSION
+
+BUILD.
+LEARN.
+SHIP.
+
+══════════════════════════════════════════════════════════════╝
+```
+
+---
+
+# 🧬 SKILL DNA
+
+```text
+
+                    AI
+
+                    ▲
+
+                    │
+
+        Python ─────┼───── Node.js
+
+                    │
+
+React ───────── KHUSHAL ───── Docker
+
+                    │
+
+ MongoDB ───────┼──── PostgreSQL
+
+                    │
+
+               Linux
+
+                    │
+
+                 Cloud
+
+                    │
+
+               Automation
+
+```
+
+---
+
+# ⚛ FRONTEND UNIVERSE
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,html,css,js,ts,vite" />
+
+</div>
+
+```text
+
+███████████████████████
+
+React
+
+████████████████████
+
+Next.js
+
+██████████████████
+
+TypeScript
+
+██████████████████████
+
+Tailwind
+
+```
+
+---
+
+# 🚀 BACKEND COMMAND CENTER
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,django,fastapi,flask,nestjs" />
+
+</div>
+
+```text
+
+██████████████████████
+
+Node.js
+
+████████████████████
+
+Express
+
+████████████████
+
+FastAPI
+
+██████████████
+
+Django
+
+```
+
+---
+
+# 🗄 DATABASE GALAXY
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis,supabase,firebase" />
+
+</div>
+
+```text
+
+MongoDB
+
+██████████████████████
+
+PostgreSQL
+
+██████████████████
+
+Redis
+
+████████████████
+
+Supabase
+
+██████████████
+
+```
+
+---
+
+# 🤖 AI LABORATORY
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv" />
+
+</div>
+
+```text
+
+LLMs
+
+██████████████████
+
+Computer Vision
+
+████████████████████
+
+OCR
+
+██████████████████
+
+Voice AI
+
+██████████████████████
+
+Automation
+
+████████████████████
+
+```
+
+---
+
+# ☁ DEVOPS STATION
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=docker,linux,aws,vercel,github,git,nginx" />
+
+</div>
+
+```text
+
+Docker
+
+██████████████████████
+
+Linux
+
+████████████████████
+
+GitHub
+
+██████████████████████
+
+Cloud
+
+██████████████████
+
+Deployment
+
+████████████████████
+
+```
+
+---
+
+# ⚡ TOOLBOX
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=vscode,figma,postman,github,git,npm,bash" />
+
+</div>
+
+---
+
+# 🛰 PRODUCT ECOSYSTEM
+
+```text
+
+                    🌍
+
+                     │
+
+             KHUSHAL OS
+
+                     │
+
+────────────────────────────────────────
+
+        Resume Builder
+
+────────────────────────────────────────
+
+             Voice AI
+
+────────────────────────────────────────
+
+          AI Helpdesk
+
+────────────────────────────────────────
+
+            HRMS SaaS
+
+────────────────────────────────────────
+
+           Trading App
+
+────────────────────────────────────────
+
+            OCR SaaS
+
+────────────────────────────────────────
+
+          Gaon Zaika
+
+────────────────────────────────────────
+
+```
+
+---
+
+# 🎯 CURRENT TECH FOCUS
+
+| Area | Status |
+|------|--------|
+| 🤖 Artificial Intelligence | ███████████████████ |
+| ⚛ Full Stack | ███████████████████ |
+| ☁ Cloud Deployment | █████████████████ |
+| 🐳 Docker | █████████████████ |
+| 🧠 LLMs | ███████████████████ |
+| 🎙 Voice AI | ███████████████████ |
+| 🚀 Product Architecture | ███████████████████ |
+
+---
+
+# 💻 DAILY DEVELOPMENT LOOP
+
+```text
+
+      IDEA
+
+        │
+
+        ▼
+
+ ARCHITECTURE
+
+        │
+
+        ▼
+
+ DEVELOPMENT
+
+        │
+
+        ▼
+
+ TESTING
+
+        │
+
+        ▼
+
+ DEPLOYMENT
+
+        │
+
+        ▼
+
+ MONITORING
+
+        │
+
+        ▼
+
+ IMPROVEMENT
+
+        │
+
+        └───────────────↺
+
+```
+
+---
+
+<div align="center">
+
+## ⚡ POWERED BY
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,python,docker,mongodb,postgres,linux,git,github,vscode" />
+
+</div>
+
+---
+
+<div align="center">
+
+# 🎬 END OF ACT III
+
+```
+TECH GALAXY SYNCHRONIZED
+
+█████████████████████
+
+NEXT
+
+PROJECT MULTIVERSE
+
+LOADING...
+```
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:000000,30:001f3f,60:007CF0,100:000000"/>
+
+</div>
+---
+
+# 🎬 ACT IV — PROJECT MULTIVERSE
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212257465-f7d4dcb2-3c8b-42b8-bf7c-7b0d0cf79f34.gif" width="250"/>
+
+# 🌌 PROJECT MULTIVERSE
+
+*"Every repository tells a story."*
+
+*"Every product solves a problem."*
+
+</div>
+
+---
+
+# 🎥 FEATURED CINEMATIC PROJECTS
+
+---
+
+## 🎙️ VAANIAI
+
+<div align="center">
+
+### ⚡ India's Next Voice AI Platform
+
+<img src="https://img.shields.io/badge/STATUS-BUILDING-success?style=for-the-badge"/>
+
+</div>
+
+```text
+
+MISSION
+
+Build India's fastest multilingual
+Voice AI Platform.
+
+──────────────────────────────────────
+
+Realtime Speech
+
+↓
+
+LLM
+
+↓
+
+Reasoning
+
+↓
+
+Voice Generation
+
+↓
+
+Human Conversation
+
+```
+
+### Tech
+
+```
+Node.js
+
+WebSockets
+
+Gemini
+
+Deepgram
+
+ElevenLabs
+
+Docker
+
+Traefik
+
+```
+
+---
+
+## 🍕 GAON ZAIKA
+
+<div align="center">
+
+### "Swad Gaon Ka ❤️"
+
+<img src="https://img.shields.io/badge/LIVE-STARTUP-orange?style=for-the-badge"/>
+
+</div>
+
+```text
+
+CUSTOMER
+
+↓
+
+Restaurant
+
+↓
+
+Delivery Partner
+
+↓
+
+Happy Family ❤️
+
+```
+
+### Features
+
+✅ Live Orders
+
+✅ Restaurant Panel
+
+✅ Customer App
+
+✅ Delivery Tracking
+
+✅ Admin Dashboard
+
+---
+
+## 📄 AI RESUME BUILDER
+
+<div align="center">
+
+### Resume in Minutes
+
+<img src="https://img.shields.io/badge/AI-POWERED-blue?style=for-the-badge"/>
+
+</div>
+
+```text
+
+AI Suggestion
+
+↓
+
+Resume Builder
+
+↓
+
+ATS Optimization
+
+↓
+
+Resume Analysis
+
+↓
+
+PDF Export
+
+```
+
+---
+
+## 🏢 HRMS SAAS
+
+<div align="center">
+
+### Enterprise HR Platform
+
+</div>
+
+```text
+
+Employee
+
+↓
+
+HR
+
+↓
+
+Payroll
+
+↓
+
+Attendance
+
+↓
+
+Leave
+
+↓
+
+Reports
+
+```
+
+Modules
+
+```
+Payroll
+
+PIS
+
+Leave
+
+Recruitment
+
+Performance
+
+Travel
+
+Expenses
+
+```
+
+---
+
+## 🤖 AI HELPDESK
+
+<div align="center">
+
+### AI Customer Support
+
+</div>
+
+```text
+
+WhatsApp
+
+Telegram
+
+Website
+
+↓
+
+AI Agent
+
+↓
+
+Knowledge Base
+
+↓
+
+Support Ticket
+
+↓
+
+Human Agent
+
+```
+
+Features
+
+```
+Multi Tenant
+
+AI Replies
+
+Chatbot
+
+Automation
+
+Analytics
+
+```
+
+---
+
+## 🌾 OCR SAAS
+
+<div align="center">
+
+### Document Intelligence
+
+</div>
+
+```text
+
+Image
+
+↓
+
+OCR
+
+↓
+
+AI Processing
+
+↓
+
+Structured Data
+
+↓
+
+Export
+
+```
+
+Supports
+
+```
+Hindi
+
+English
+
+Invoices
+
+Forms
+
+Documents
+
+```
+
+---
+
+## 📈 TRADING PLATFORM
+
+<div align="center">
+
+### Live Trading Engine
+
+</div>
+
+```text
+
+Market
+
+↓
+
+Realtime Data
+
+↓
+
+Orders
+
+↓
+
+Portfolio
+
+↓
+
+Analytics
+
+```
+
+Stack
+
+```
+Node.js
+
+MongoDB
+
+Redis
+
+WebSockets
+
+Docker
+
+```
+
+---
+
+# 🌍 PRODUCT ECOSYSTEM
+
+```text
+
+                         KHUSHAL
+
+                             │
+
+      ┌──────────────────────┼──────────────────────┐
+
+      │                      │                      │
+
+  AI Products          SaaS Products         Startup
+
+      │                      │                  │
+
+ VaaniAI             Resume Builder      Gaon Zaika
+
+ Helpdesk            HRMS SaaS
+
+ OCR                 Trading
+
+```
+
+---
+
+# 🚀 CURRENT MISSIONS
+
+| Project | Status |
+|----------|--------|
+| 🎙️ VaaniAI | 🟢 Active |
+| 📄 Resume Builder | 🟢 Active |
+| 🏢 HRMS | 🟢 Active |
+| 🍕 Gaon Zaika | 🟢 Active |
+| 🤖 AI Helpdesk | 🟢 Active |
+| 🌾 OCR SaaS | 🟢 Active |
+| 📈 Trading Platform | 🟢 Active |
+
+---
+
+# 💎 PROJECT PHILOSOPHY
+
+```text
+
+Think.
+
+↓
+
+Design.
+
+↓
+
+Build.
+
+↓
+
+Test.
+
+↓
+
+Deploy.
+
+↓
+
+Scale.
+
+↓
+
+Repeat.
+
+```
+
+---
+
+<div align="center">
+
+## ⚡ PRODUCT TIMELINE
+
+```
+2024
+
+███████░░░░░░
+
+Learning
+
+↓
+
+2025
+
+████████████
+
+Full Stack
+
+↓
+
+2026
+
+██████████████████
+
+AI Products
+
+↓
+
+Next
+
+██████████████████████
+
+Global Startup
+
+```
+
+</div>
+
+---
+
+<div align="center">
+
+## 🛰 PROJECT COMMAND CENTER
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=KhushalYadav535&repo=Resume-Builder&theme=transparent"/>
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=KhushalYadav535&repo=TextMitra&theme=transparent"/>
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=KhushalYadav535&repo=VaaniAI&theme=transparent"/>
+
+</div>
+
+---
+
+<div align="center">
+
+# 🎬 END OF ACT IV
+
+```
+PROJECT MULTIVERSE
+
+██████████████████████
+
+MISSION COMPLETE
+
+NEXT
+
+ACHIEVEMENT VAULT
+
+LOADING...
+```
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:000000,40:111827,60:2563EB,100:000000"/>
+
+</div>
+---
+
+# 🏆 ACT V — THE ACHIEVEMENT VAULT
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212749695-7b1c6d1e-9f42-4eb6-9d77-d8b86a78c0db.gif" width="260"/>
+
+# 🏆 HALL OF ACHIEVEMENTS
+
+*"Success is not a destination.*
+
+*It is the result of showing up every single day."*
+
+</div>
+
+---
+
+# ⚡ MISSION LOG
+
+```text
+
+MISSION REPORT
+
+══════════════════════════════════════
+
+✔ 1000+ Git Commits
+
+✔ 110+ GitHub Repositories
+
+✔ AI Products Built
+
+✔ SaaS Applications
+
+✔ Voice AI Platform
+
+✔ HRMS
+
+✔ OCR Engine
+
+✔ Resume Builder
+
+✔ Trading Platform
+
+✔ Food Delivery Startup
+
+✔ Docker Deployments
+
+✔ VPS Infrastructure
+
+✔ Open Source Contributions
+
+══════════════════════════════════════
+
+NEXT TARGET
+
+10 Million Users
+
+```
+
+---
+
+# 📊 GITHUB COMMAND CENTER
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=KhushalYadav535&show_icons=true&hide_border=true&theme=transparent"/>
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=KhushalYadav535&theme=transparent&hide_border=true"/>
+
+<br><br>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhushalYadav535&layout=compact&theme=transparent&hide_border=true"/>
+
+<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=KhushalYadav535&theme=react-dark&hide_border=true"/>
+
+</div>
+
+---
+
+# 🌍 CONTRIBUTION GALAXY
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KhushalYadav535&theme=github_dark" width="100%"/>
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=KhushalYadav535&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# 🐍 CONTRIBUTION SNAKE
+
+<div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KhushalYadav535/KhushalYadav535/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KhushalYadav535/KhushalYadav535/output/github-contribution-grid-snake.svg">
-  <img alt="Snake Animation" src="https://raw.githubusercontent.com/KhushalYadav535/KhushalYadav535/output/github-contribution-grid-snake-dark.svg" width="100%">
+
+<source media="(prefers-color-scheme: dark)"
+
+srcset="https://raw.githubusercontent.com/KhushalYadav535/KhushalYadav535/output/github-contribution-grid-snake-dark.svg">
+
+<source media="(prefers-color-scheme: light)"
+
+srcset="https://raw.githubusercontent.com/KhushalYadav535/KhushalYadav535/output/github-contribution-grid-snake.svg">
+
+<img src="https://raw.githubusercontent.com/KhushalYadav535/KhushalYadav535/output/github-contribution-grid-snake-dark.svg"/>
+
 </picture>
 
 </div>
 
-<br/>
+---
 
-### 🥇 ACHIEVEMENT WALL
+# ⚔ DEVELOPER POWER LEVEL
+
+| Ability | Level |
+|----------|--------|
+| 💻 Full Stack | ███████████████████ |
+| 🤖 Artificial Intelligence | ███████████████████ |
+| ⚛ React | ██████████████████ |
+| 🟢 Node.js | ███████████████████ |
+| 🐍 Python | █████████████████ |
+| 🐳 Docker | █████████████████ |
+| ☁ DevOps | ████████████████ |
+| 🚀 Product Building | ███████████████████ |
+
+---
+
+# 🛰 LIVE STATUS
+
+```yaml
+
+Operating System:
+
+ONLINE
+
+AI Engine:
+
+RUNNING
+
+Docker:
+
+ACTIVE
+
+GitHub:
+
+SYNCED
+
+Current Focus:
+
+Building AI Products
+
+Coffee:
+
+Unlimited
+
+```
+
+---
+
+# 🎖 HALL OF FAME
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/🏆_SIH_FINALIST-000000?style=for-the-badge&labelColor=FFD700" />
-<img src="https://img.shields.io/badge/⚔️_1800%2B_LEETCODE_RATING-000000?style=for-the-badge&labelColor=FFD700" />
-<img src="https://img.shields.io/badge/🥇_GOLD_SQL_BADGE-000000?style=for-the-badge&labelColor=FFD700" />
+![](https://img.shields.io/badge/AI_ENGINEER-00E5FF?style=for-the-badge)
 
-<br/>
+![](https://img.shields.io/badge/FULL_STACK-2563EB?style=for-the-badge)
 
-<img src="https://img.shields.io/badge/🗂️_110%2B_PUBLIC_REPOS-000000?style=for-the-badge&labelColor=FFD700" />
-<img src="https://img.shields.io/badge/🔥_1000%2B_COMMITS-000000?style=for-the-badge&labelColor=FFD700" />
-<img src="https://img.shields.io/badge/🌍_TOP_15%25_GLOBAL-000000?style=for-the-badge&labelColor=FFD700" />
+![](https://img.shields.io/badge/PRODUCT_BUILDER-9333EA?style=for-the-badge)
+
+![](https://img.shields.io/badge/OPEN_SOURCE-10B981?style=for-the-badge)
+
+![](https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge)
+
+![](https://img.shields.io/badge/NODE.JS-339933?style=for-the-badge)
+
+![](https://img.shields.io/badge/REACT-61DAFB?style=for-the-badge)
+
+![](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge)
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&customColorList=6&height=3&section=header" width="80%"/>
+---
 
-<br/>
+# 📈 CAREER EVOLUTION
 
-## 〈 ACT VII — BEHIND THE SCENES 〉
+```text
+
+2023
+
+Learning Programming
+
+████░░░░░░░░░░
+
+↓
+
+2024
+
+Frontend + Backend
+
+████████░░░░░
+
+↓
+
+2025
+
+Full Stack Engineer
+
+████████████░
+
+↓
+
+2026
+
+AI Engineer
+
+████████████████
+
+↓
+
+NEXT
+
+Founder
+
+████████████████████
+
+```
+
+---
+
+# 🌠 LIFE MOTTO
+
+```text
+
+Dream.
+
+↓
+
+Build.
+
+↓
+
+Fail.
+
+↓
+
+Learn.
+
+↓
+
+Improve.
+
+↓
+
+Deploy.
+
+↓
+
+Repeat.
+
+```
+
+---
 
 <div align="center">
 
-### 🎥 HOW A PROJECT GETS BUILT
+# 🎬 END OF ACT V
 
 ```
-┌─────────────┐    ┌─────────────┐    ┌─────────────┐    ┌─────────────┐
-│   PROBLEM   │ →  │    DESIGN   │ →  │    BUILD    │ →  │    SHIP     │
-│  Understand │    │   Architect │    │   Code +    │    │  Deploy +   │
-│  the real   │    │   the       │    │   Test      │    │  Monitor    │
-│  ask first  │    │   system    │    │   daily     │    │  in prod    │
-└─────────────┘    └─────────────┘    └─────────────┘    └─────────────┘
+ACHIEVEMENTS UNLOCKED
+
+██████████████████████
+
+Preparing Final Credits...
+
 ```
-
-### 🛠️ THE DAILY LOOP
-
-| Time | Activity |
-|:---|:---|
-| 🌅 Morning | Review overnight builds, triage issues |
-| 🧑‍💻 Deep Work | Feature builds, architecture, AI model tuning |
-| 🧪 Testing | Unit + integration tests before every merge |
-| 🚀 Deploy | Docker + Traefik on VPS, or Vercel edge |
-| 🌙 Wind Down | LeetCode grind · open source contributions |
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&customColorList=6&height=3&section=header" width="80%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:000000,30:0F172A,60:2563EB,100:000000"/>
+---
 
-<br/>
-
-## 〈 FINAL ACT — THE CREDITS ROLL 〉
+# 🎬 ACT VI — THE FINAL CREDITS
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/khushal-yadav-27a178220/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-000000?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=FFD700" height="42"/>
+<img src="https://user-images.githubusercontent.com/74038190/212749726-2d7d6b72-49f4-4d4e-b6d0-dce274235a05.gif" width="250"/>
+
+# 🌌 THE JOURNEY NEVER ENDS
+
+*"The best code I've written...*
+
+*...is still waiting to be built."*
+
+</div>
+
+---
+
+# 🎥 END CREDITS
+
+```text
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+                 STARRING
+
+              KHUSHAL YADAV
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Lead Developer
+
+AI Engineer
+
+Product Architect
+
+Open Source Contributor
+
+Startup Builder
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+```
+
+---
+
+# 🛰 CONNECT TERMINAL
+
+<div align="center">
+
+<a href="https://github.com/KhushalYadav535">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-&nbsp;&nbsp;
+
+<a href="https://www.linkedin.com/in/khushal-yadav-27a178220">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
 <a href="mailto:khushalyadavofficial@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Hire%20Me-000000?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=FFD700" height="42"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://twitter.com/khushal_dev">
-  <img src="https://img.shields.io/badge/Twitter-Follow-000000?style=for-the-badge&logo=twitter&logoColor=1DA1F2&labelColor=FFD700" height="42"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://github.com/KhushalYadav535?tab=repositories">
-  <img src="https://img.shields.io/badge/GitHub-110%2B_Repos-000000?style=for-the-badge&logo=github&logoColor=FFD700&labelColor=FFD700" height="42"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<br/><br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=600&size=18&duration=3000&pause=1000&color=FFD700&background=00000000&center=true&vCenter=true&width=700&lines=📧+khushalyadavofficial%40gmail.com;💼+Open+to+Collaborations+%26+Freelance+Projects;🎬+1000%2B+Commits+—+the+sequel+never+stops" alt="Contact" />
-
-<br/><br/>
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true" width="680"/>
-
-<br/><br/>
-
-```
-┌──────────────────────────────────────────────────────────┐
-│                                                            │
-│   CAST                                                    │
-│   ────────────────────────────────────────────────────    │
-│   Lead Engineer .......................  Khushal Yadav    │
-│   AI Architect .........................  Khushal Yadav   │
-│   Bug Fixer (uncredited) ...............  Khushal Yadav   │
-│                                                            │
-│   PRODUCED WITH                                            │
-│   ────────────────────────────────────────────────────    │
-│   Coffee ................................  Unlimited      │
-│   Deadlines ..............................  Respected     │
-│   Sleep ...................................  Negotiable   │
-│                                                            │
-└──────────────────────────────────────────────────────────┘
-```
-
-<br/>
-
-**Built with intent &nbsp;·&nbsp; Shipped with discipline &nbsp;·&nbsp; [KhushalYadav535](https://github.com/KhushalYadav535)**
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=KhushalYadav535&style=for-the-badge&color=FFD700&label=PROFILE+VIEWS&labelColor=000000" />
+<a href="https://leetcode.com">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
 
 </div>
 
-<br/>
+---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1a0f3d,100:000000&height=140&section=footer&animation=twinkling&fontColor=FFD700" width="100%"/>
+# 💻 CONTACT PROTOCOL
+
+```yaml
+
+Name:
+Khushal Yadav
+
+Role:
+Software Engineer
+
+Specialization:
+Artificial Intelligence
+
+Focus:
+Full Stack Development
+
+Status:
+Open for Opportunities
+
+```
+
+---
+
+# 🚀 CURRENT MISSION
+
+```text
+
+Build products
+
+that people love.
+
+↓
+
+Solve real problems.
+
+↓
+
+Help millions.
+
+↓
+
+Never stop learning.
+
+```
+
+---
+
+# 🌍 PHILOSOPHY
+
+<div align="center">
+
+> **"People don't remember code.**
+>
+> **They remember the impact it created."**
+
+</div>
+
+---
+
+# ⚡ BUILD PROCESS
+
+```text
+
+IDEA
+
+↓
+
+PLAN
+
+↓
+
+DESIGN
+
+↓
+
+CODE
+
+↓
+
+TEST
+
+↓
+
+DEPLOY
+
+↓
+
+SCALE
+
+↓
+
+REPEAT
+
+∞
+
+```
+
+---
+
+# 🤖 AI TERMINAL
+
+```bash
+
+> boot khushal
+
+Loading...
+
+AI Engine....
+
+██████████████
+
+Docker....
+
+██████████████
+
+Projects....
+
+██████████████
+
+Dreams....
+
+UNLIMITED
+
+Status....
+
+READY
+
+```
+
+---
+
+# 🧠 MEMORY WALL
+
+```text
+
+☕
+
+Coffee
+
+↓
+
+💻
+
+Coding
+
+↓
+
+🤖
+
+Artificial Intelligence
+
+↓
+
+🚀
+
+Innovation
+
+↓
+
+🌍
+
+Impact
+
+↓
+
+∞
+
+Keep Building
+
+```
+
+---
+
+# 🎯 FUTURE ROADMAP
+
+| Goal | Status |
+|------|--------|
+| AI Startup | 🚧 |
+| Open Source | 🚀 |
+| Global Products | 🎯 |
+| Millions of Users | ⭐ |
+| Tech Founder | ⏳ |
+
+---
+
+# 💙 THANK YOU
+
+<div align="center">
+
+### Thanks for visiting my universe.
+
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Thanks+for+visiting!;Let's+Build+Something+Amazing!;See+You+in+the+Next+Commit+🚀"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&color=0:000000,25:001F3F,50:007CF0,75:00E5FF,100:000000&animation=twinkling"/>
+
+### ⭐ If you like my work, consider following me and starring my repositories.
+
+<img src="https://komarev.com/ghpvc/?username=KhushalYadav535&style=for-the-badge&color=00E5FF"/>
+
+</div>
