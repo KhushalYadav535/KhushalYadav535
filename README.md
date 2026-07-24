@@ -6,9 +6,38 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284126-77d8f684-6c30-4f4d-b151-7d2d7fa8a2d6.gif" width="220"/>
 
+<br>
+
+![Profile Views](https://komarev.com/ghpvc/?username=KhushalYadav535&style=flat-square&color=00E5FF&label=Profile+Views)
+![GitHub followers](https://img.shields.io/github/followers/KhushalYadav535?style=flat-square&color=00E5FF&label=Followers)
+![GitHub Repo stars](https://img.shields.io/github/stars/KhushalYadav535?style=flat-square&color=00E5FF&label=Total+Stars)
+
 </div>
 
 <br>
+
+## 📖 Table of Contents
+
+- [About Me](#-about-me)
+- [RPG Character Card](#-rpg-character-card)
+- [Featured Projects](#-featured-projects)
+- [Repository Highlights](#-repository-highlights)
+- [Tech Arsenal](#-tech-arsenal)
+- [Skill Levels](#-skill-levels)
+- [System Architecture — Vaani AI](#-system-architecture--vaani-ai)
+- [Daily Build Loop](#-daily-build-loop)
+- [GitHub Analytics](#-github-analytics)
+- [Trophy Case](#-trophy-case)
+- [Contribution Snake](#-contribution-snake)
+- [Career Timeline](#-career-timeline)
+- [Mission Log](#-mission-log)
+- [Currently](#-currently)
+- [FAQ](#-faq)
+- [Connect With Me](#-connect-with-me)
+
+<br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=2&color=00F5FF"/>
 
 ## 🧬 About Me
 
@@ -16,10 +45,13 @@
 const khushal = {
   name: "Khushal Yadav",
   role: "AI Engineer & Technical Founder",
-  base: "Prayagraj, India",
+  base: "Prayagraj, Uttar Pradesh, India",
+  workplace: "Sentient Digital, Indore",
+  education: "B.Tech CSE — BBDNITM, Lucknow",
   currentlyBuilding: "Vaani AI — multi-tenant Hindi/Hinglish voice agent platform",
   focus: ["Voice AI", "Full Stack SaaS", "Automation", "Cloud Deployment"],
-  mindset: "Build. Ship. Learn. Repeat."
+  mindset: "Build. Ship. Learn. Repeat.",
+  status: "Open to interesting opportunities"
 };
 ```
 
@@ -27,6 +59,64 @@ const khushal = {
 - 🛠️ Full stack across React, Node.js, and Python — architecture to deployment, solo
 - ☁️ Self-managed infra: Docker + Traefik + Coolify on VPS
 - 📈 110+ public repositories, consistently shipping and contributing
+- 🧠 Deep focus on LLM integration, speech pipelines (STT/TTS), and multi-tenant SaaS architecture
+- 🌱 Currently exploring cost-optimized voice stacks and low-latency conversational AI
+- 🗣️ Comfortable working and communicating in both Hindi and English
+
+<br>
+
+### 🪪 Quick Facts
+
+| | |
+|---|---|
+| 🌍 **Location** | Prayagraj, Uttar Pradesh, India |
+| 💼 **Role** | AI Engineer, Sentient Digital |
+| 🎓 **Education** | B.Tech CSE, BBDNITM Lucknow |
+| 🎙️ **Flagship Product** | Vaani AI |
+| 📦 **Public Repos** | 110+ |
+| ☕ **Fuel** | Coffee, unlimited |
+| 🕐 **Timezone** | IST (UTC +5:30) |
+| 🗣️ **Languages** | Hindi, English |
+
+<br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=2&color=00F5FF"/>
+
+## 🎮 RPG Character Card
+
+```typescript
+const player = {
+  name: "Khushal Yadav",
+  class: "AI Engineer",
+  guild: "Sentient Digital",
+  alignment: "Builder",
+  title: "The Product Architect",
+  weapon: "VS Code",
+  armor: "Docker Containers",
+  specialAbility: [
+    "AI Systems",
+    "Full Stack Development",
+    "System Design",
+    "Automation",
+    "Cloud Deployment"
+  ],
+  ultimateSkill: "Turning ideas into products."
+};
+```
+
+<div align="center">
+
+| Attribute | Level |
+|---|---|
+| ❤️ Passion | ████████████████████ 100% |
+| 🧠 Problem Solving | ███████████████████░ 95% |
+| ⚡ Full Stack | ███████████████████░ 98% |
+| 🤖 AI Engineering | ███████████████████░ 96% |
+| ☁️ DevOps | █████████████████░░░ 88% |
+| 🚀 Product Thinking | ███████████████████░ 99% |
+| ☕ Coffee Resistance | ████████████████████ 100% |
+
+</div>
 
 <br>
 
@@ -34,62 +124,98 @@ const khushal = {
 
 ## 🎥 Featured Projects
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
 ### 🎙️ Vaani AI
-Multi-tenant Hindi/Hinglish voice AI platform for customer support & sales automation.
-<br><br>
-`Node.js` `Deepgram` `ElevenLabs` `Gemini/Groq` `MongoDB`
 
-</td>
-<td width="50%" valign="top">
+> India's multilingual Voice AI platform — built for real conversations.
+
+Multi-tenant voice agent platform enabling Indian businesses to deploy Hindi/Hinglish AI voice assistants for customer support and sales automation. Handles real-time speech recognition, LLM reasoning, and natural voice generation in a single pipeline.
+
+**Highlights**
+- Multi-tenant architecture serving multiple business clients from one backend
+- Custom persona system prompts per client, tuned for natural Hindi/Hinglish conversation
+- Solved Hindi grammatical-gender agreement for natural-sounding responses
+- Optimized TTS costs significantly while preserving voice quality for Hindi calls
+
+**Stack**
+`Node.js` `WebSockets` `Deepgram (STT)` `ElevenLabs / Sarvam Bulbul V3 (TTS)` `Gemini / Groq (LLM)` `MongoDB` `Redis` `Docker` `Traefik`
+
+---
 
 ### 🍕 Gaon Zaika
-Food delivery startup — customer app, restaurant panel, delivery tracking.
-<br><br>
-`React Native` `Expo` `Node.js`
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+> "Swad Gaon Ka" — food delivery, built ground up.
+
+A full food delivery ecosystem: customer-facing Android app, restaurant panel, delivery tracking, and admin dashboard — built and shipped independently, including navigating multiple Play Console compliance rounds.
+
+**Highlights**
+- Live order tracking from restaurant to doorstep
+- Resolved Play Console Data Safety and account-deletion compliance requirements
+- Backend reliability tooling for free-tier hosting constraints
+
+**Stack**
+`React Native` `Expo` `Node.js` `MongoDB`
+
+---
 
 ### 🏢 AapkiSociety
-Society management platform with app + backend for residential communities.
-<br><br>
+
+> Society management, simplified.
+
+A society management platform pairing a mobile app with a backend service, designed to help residential communities manage day-to-day operations digitally.
+
+**Stack**
 `React Native` `Node.js`
 
-</td>
-<td width="50%" valign="top">
+---
 
 ### 📈 Avadh15 / Tradebackend
-Virtual trading simulation platform with a dedicated security layer.
-<br><br>
+
+> A virtual trading simulator with a real security layer.
+
+A trading simulation platform that lets users practice market strategies risk-free, backed by a dedicated security layer protecting user data and simulated portfolios.
+
+**Stack**
 `Node.js` `WebSockets` `Redis`
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+---
 
 ### 🌾 TextMitra
-OCR SaaS for Hindi & English document intelligence — invoices, forms, documents.
-<br><br>
+
+> Document intelligence for Hindi & English.
+
+An OCR backend service built for accurate text extraction from scanned documents, invoices, and forms — supporting both Hindi and English text recognition.
+
+**Stack**
 `Python` `Flask` `PaddleOCR`
 
-</td>
-<td width="50%" valign="top">
+---
 
 ### ☁️ VPS Infrastructure
-Self-managed deployment stack powering all projects above.
-<br><br>
-`Docker` `Traefik` `Coolify` `Let's Encrypt`
 
-</td>
-</tr>
-</table>
+> One deployment pattern, every project.
+
+A consistent, self-managed deployment pipeline powering every product above — Docker containers routed through Traefik, orchestrated with Coolify, secured with Let's Encrypt SSL.
+
+**Stack**
+`Docker` `Traefik` `Coolify` `Let's Encrypt` `Linux`
+
+<br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=2&color=00F5FF"/>
+
+## 📌 Repository Highlights
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=KhushalYadav535&repo=VaaniAI&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=KhushalYadav535&repo=TextMitra&theme=tokyonight&hide_border=true"/>
+<br>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=KhushalYadav535&repo=Resume-Builder&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=KhushalYadav535&repo=GaonZaika&theme=tokyonight&hide_border=true"/>
+
+<sub>Pin cards pull live data from GitHub — update repo names above to match your actual repository names exactly.</sub>
+
+</div>
 
 <br>
 
@@ -101,27 +227,124 @@ Self-managed deployment stack powering all projects above.
 
 **Frontend**
 <br>
-<img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,ts,js" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,ts,js,html,css" />
 
 <br><br>
 
 **Backend**
 <br>
-<img src="https://skillicons.dev/icons?i=nodejs,express,python,flask,fastapi" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,python,flask,fastapi,django" />
 
 <br><br>
 
-**Data**
+**Data & Storage**
 <br>
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,redis" />
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,redis,sqlite" />
 
 <br><br>
 
-**DevOps & Tools**
+**AI / Voice**
 <br>
-<img src="https://skillicons.dev/icons?i=docker,linux,nginx,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv" />
+
+<br><br>
+
+**DevOps & Infrastructure**
+<br>
+<img src="https://skillicons.dev/icons?i=docker,linux,nginx,git,github,vscode,bash" />
 
 </div>
+
+<br>
+
+## 📊 Skill Levels
+
+| Skill | Proficiency |
+|---|---|
+| Full Stack Development | ████████████████████ 98% |
+| Node.js / Express | ███████████████████░ 96% |
+| React / React Native | ██████████████████░░ 92% |
+| Python (Flask / AI) | █████████████████░░░ 88% |
+| AI / LLM Integration | ██████████████████░░ 90% |
+| Voice AI (STT/TTS pipelines) | ███████████████████░ 94% |
+| Docker & Deployment | ██████████████████░░ 90% |
+| Database Design (Mongo/Postgres) | █████████████████░░░ 87% |
+| System Architecture | ██████████████████░░ 91% |
+
+<br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=2&color=00F5FF"/>
+
+## 🛰 System Architecture — Vaani AI
+
+```text
+                     ┌─────────────────────┐
+                     │   Incoming Call /    │
+                     │   Web Voice Session   │
+                     └──────────┬───────────┘
+                                │
+                                ▼
+                     ┌─────────────────────┐
+                     │   Speech-to-Text      │
+                     │   (Deepgram STT)      │
+                     └──────────┬───────────┘
+                                │
+                                ▼
+                     ┌─────────────────────┐
+                     │   LLM Reasoning       │
+                     │   (Gemini / Groq)     │
+                     │   Client persona +    │
+                     │   system prompt        │
+                     └──────────┬───────────┘
+                                │
+                                ▼
+                     ┌─────────────────────┐
+                     │   Text-to-Speech      │
+                     │   (ElevenLabs /       │
+                     │    Sarvam Bulbul V3)  │
+                     └──────────┬───────────┘
+                                │
+                                ▼
+                     ┌─────────────────────┐
+                     │   Natural Voice        │
+                     │   Response to Caller    │
+                     └─────────────────────┘
+
+           Backed by: MongoDB (tenant data) · Redis (session state)
+           Deployed via: Docker + Traefik + Coolify on VPS
+```
+
+**Multi-tenant design** — each client (e.g. banking, education, government service desks) gets its own persona, system prompt, and voice configuration, while sharing the same underlying infrastructure for cost efficiency.
+
+<br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=2&color=00F5FF"/>
+
+## ⚔ Daily Build Loop
+
+```yaml
+Morning:
+  - Review production systems
+  - Fix overnight bugs / alerts
+
+Afternoon:
+  - Ship features
+  - Client integrations & testing
+
+Evening:
+  - Research (LLMs, voice AI, DevOps)
+  - Code review
+
+Night:
+  - Deploy
+  - Learn something new
+
+Repeat: Forever
+```
+
+```text
+IDEA → PLAN → DESIGN → CODE → TEST → DEPLOY → SCALE → REPEAT ∞
+```
 
 <br>
 
@@ -151,6 +374,8 @@ Self-managed deployment stack powering all projects above.
 
 <br>
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=2&color=00F5FF"/>
+
 ## 🐍 Contribution Snake
 
 <div align="center">
@@ -161,7 +386,53 @@ Self-managed deployment stack powering all projects above.
   <img alt="contribution snake animation" src="https://raw.githubusercontent.com/KhushalYadav535/KhushalYadav535/output/github-contribution-grid-snake-dark.svg"/>
 </picture>
 
+<br><br>
+
+> Powered by a GitHub Action that turns the contribution graph into a snake game, run automatically on a schedule.
+
 </div>
+
+<br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=2&color=00F5FF"/>
+
+## 🌍 Career Timeline
+
+```text
+2023 ─── Learning Programming
+          │  HTML, CSS, JavaScript fundamentals
+          ▼
+2024 ─── Frontend + Backend
+          │  React, Node.js, MongoDB
+          ▼
+2025 ─── Full Stack Engineer
+          │  Production apps, Docker, cloud deployment
+          ▼
+2026 ─── AI Engineer
+          │  Voice AI, LLM integration, multi-tenant SaaS
+          │  Building Vaani AI at Sentient Digital
+          ▼
+Next ─── Founder
+          Scaling AI products to millions of users
+```
+
+<br>
+
+## 🎯 Mission Log
+
+```text
+✔ 1000+ Git Commits
+✔ 110+ GitHub Repositories
+✔ Multi-tenant Voice AI Platform (Vaani AI)
+✔ Food Delivery Startup (Gaon Zaika)
+✔ Society Management Platform (AapkiSociety)
+✔ Trading Simulation Platform (Avadh15)
+✔ OCR SaaS for Hindi & English (TextMitra)
+✔ Self-managed VPS Infrastructure (Docker + Traefik + Coolify)
+✔ Open Source Contributions
+
+Next Target: 10 Million Users
+```
 
 <br>
 
@@ -171,12 +442,51 @@ Self-managed deployment stack powering all projects above.
 
 ```yaml
 Building:     Vaani AI — voice agent platform for Indian businesses
-Learning:     Scaling multi-tenant AI infrastructure
+Learning:     Scaling multi-tenant AI infrastructure, low-latency voice pipelines
 Deploying:    Docker + Traefik + Coolify, self-hosted VPS
+Exploring:    Cost-optimized TTS/STT stacks for Hindi & Hinglish
 Status:       Open to interesting opportunities
 ```
 
 <br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=2&color=00F5FF"/>
+
+## ❓ FAQ
+
+<details>
+<summary><b>What are you currently focused on?</b></summary>
+<br>
+Scaling Vaani AI — improving latency, reducing per-call costs, and onboarding more clients onto the multi-tenant voice platform.
+</details>
+
+<details>
+<summary><b>What's your go-to stack for a new product?</b></summary>
+<br>
+React or React Native on the frontend, Node.js/Express on the backend, MongoDB or PostgreSQL for data, everything containerized with Docker and deployed behind Traefik via Coolify.
+</details>
+
+<details>
+<summary><b>Are you open to collaboration or work?</b></summary>
+<br>
+Yes — reach out via email or LinkedIn below.
+</details>
+
+<br>
+
+## 💎 Philosophy
+
+<div align="center">
+
+> Build. Learn. Share. Repeat.
+>
+> **"People don't remember code. They remember the impact it created."**
+
+</div>
+
+<br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=2&color=00F5FF"/>
 
 ## 🔗 Connect With Me
 
@@ -193,9 +503,11 @@ Status:       Open to interesting opportunities
 
 <div align="center">
 
-### 💭 "People don't remember code. They remember the impact it created."
+### ⭐ If you like my work, consider following me and starring my repositories.
 
 <img src="https://komarev.com/ghpvc/?username=KhushalYadav535&style=for-the-badge&color=00E5FF"/>
+
+<br><br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:000000,30:001F3F,60:007CF0,100:000000&animation=twinkling"/>
 
